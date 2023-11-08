@@ -29,7 +29,7 @@ Welcome to genomeNLP's tutorials and workshops!
 
 .. _Visit our lab website here.: https://bioinformaticslab.erc.monash.edu/
 
-.. _sonika.tyagi@monash.edu: mailto:sonika.tyagi@rmit.edu.au
+.. _sonika.tyagi@rmit.edu.au: mailto:sonika.tyagi@rmit.edu.au
 
 .. NOTE::
 

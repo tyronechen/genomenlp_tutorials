@@ -3,7 +3,7 @@ Welcome to the INCOB 2023 Introduction to Machine Learning in Bioinformatics Wor
 
 .. raw:: html
 
-  Copyright (c) 2023 <a href="https://orcid.org/0000-0002-9207-0385">Tyrone Chen <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, <a href="https://orcid.org/0000-0002-8797-3168">Navya Tyagi <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, and <a href="https://orcid.org/0000-0003-0181-6258">, Naima Vahab, Sonika Tyagi <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>.
+  Copyright (c) 2023 <a href="https://orcid.org/0000-0002-9207-0385">Tyrone Chen <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, <a href="https://orcid.org/0000-0002-8797-3168">Navya Tyagi <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>,  Naima Vahab, <a href="https://orcid.org/0000-0003-0181-6258"> Sonika Tyagi <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>.
 
 
 Associated code is provided under a `MIT license`_. 
@@ -20,6 +20,12 @@ Overview
 The Introduction to Machine Learning and Bioinformatics Workshop is short interactive workshop to introduce basic concepts of machine learning predictive modeling for genomics data. This workshop is given as part of the `22nd International Conference on Bioinformatics`_. 
 
 .. _22nd International Conference on Bioinformatics: https://incob.apbionet.org/incob23/
+
+.. raw:: html
+
+    <a href="https://www.combine.org.au/"><img alt="logo" src="https://www.combine.org.au/wp-content/uploads/2022/09/new_logo_master_white-03-1536x393.png"/></a>
+    <a href="https://www.iscb.org/"><img alt="logo" src="https://www.iscb.org/templates/iscb/images/logo.png"/></a>
+    <a href="https://www.biocommons.org.au"><img alt="logo" src="https://images.squarespace-cdn.com/content/v1/5d3a4213cf4f5b00014ea1db/1689141619044-F67XDPQLP4PG6KY862VA/Australian-Biocommons-Logo-Horizontal-RGB.png?format=1500w"/></a>
 
 Acknowledgements
 ================
@@ -65,11 +71,11 @@ Instructors and contributors to lesson material
 .. raw:: html
 
   <a href="https://orcid.org/0000-0002-9207-0385">Tyrone Chen <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, Monash University, Australia
-  
+  <br>
   <a href="https://orcid.org/0000-0002-8797-3168">Navya Tyagi <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, University of Delhi, India
-  
+  <br>
   Naima Vahab
-
+  <br>
   <a href="https://orcid.org/0000-0003-0181-6258">Sonika Tyagi <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>, Royal Melbourne Institute of Technology, Australia
 
 
@@ -162,7 +168,7 @@ Glossary
 Introduction to machine learning
 --------------------------------
 
-`Add link to tntroductory machine learning content here`_
+`Add link to introductory machine learning content here`_
 
 .. _Please click here: 
 
