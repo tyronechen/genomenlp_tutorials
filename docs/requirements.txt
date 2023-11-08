@@ -1,0 +1,11 @@
+sphinx
+furo
+datasets==2.10.1
+matplotlib==3.5.2
+pandas==1.4.2
+scikit-learn==1.1.1
+scipy==1.10.1
+screed==1.0.5
+tqdm==4.64.0
+transformers==4.23.0
+weightwatcher==0.6.4
