@@ -24,8 +24,9 @@ The Introduction to Machine Learning and Bioinformatics Workshop is short intera
 .. raw:: html
 
     <a href="https://www.combine.org.au/"><img alt="logo" src="https://www.combine.org.au/wp-content/uploads/2022/09/new_logo_master_white-03-1536x393.png"/></a>
-    <a href="https://www.iscb.org/"><img alt="logo" src="https://www.iscb.org/templates/iscb/images/logo.png"/></a>
     <a href="https://www.biocommons.org.au"><img alt="logo" src="https://images.squarespace-cdn.com/content/v1/5d3a4213cf4f5b00014ea1db/1689141619044-F67XDPQLP4PG6KY862VA/Australian-Biocommons-Logo-Horizontal-RGB.png?format=1500w"/></a>
+
+.. <a href="https://www.iscb.org/"><img alt="logo" src="https://www.iscb.org/templates/iscb/images/logo.png"/></a>
 
 Acknowledgements
 ================
