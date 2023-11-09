@@ -110,9 +110,9 @@ Length: 4.0 hours
 =================================   ============  ============
 Subject                             Time          Notes
 =================================   ============  ============
-Introductory lecture                60 min        Lecture
-Setup and preprocessing data        30 min        Interactive
-Running machine learning            30 min        Interactive
+Introductory lecture                30 min        Lecture
+Setup and preprocessing data        45 min        Interactive
+Running machine learning            45 min        Interactive
 Break                               30 min        Break
 Cross validation                    30 min        Interactive
 Comparing and interpreting models   30 min        Interactive
@@ -168,11 +168,6 @@ Glossary
 
 Introduction to machine learning
 --------------------------------
-
-`Add link to introductory machine learning content here`_
-
-.. _Please click here: 
-
 
 What is NLP and genomics
 ------------------------
