@@ -307,6 +307,10 @@ To use ``ssh`` (Secure Shell) for remote server access, please follow these step
 
   `Details for (2) and (3) will be provided on the day of the workshop.`
 
+  `Please login using one user from this list. If you are using ssh, "ssh userID@IPADDRESS" where you replace ID and IPADDRESS from this list. Note that one person can only use one userID and IPADDRESS combination. This is a temporary server provided by Australian BioCommons and will be removed after today. <https://github.com/tyronechen/genomenlp_tutorials/blob/main/docs/etc/temporary_logins.csv>`_
+
+  `IF you choose not to use this, you can also follow in google colaboratory or watch the lecture.`
+
 
 3. Installing conda, mamba and genomenlp
 ========================================
