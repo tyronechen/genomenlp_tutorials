@@ -19,6 +19,8 @@ Overview
 
 The Introduction to Machine Learning and Bioinformatics Workshop is short interactive workshop to introduce basic concepts of machine learning predictive modeling for genomics data. This workshop is given as part of the `22nd International Conference on Bioinformatics`_. 
 
+Please feel free to contact us directly if you have any questions about the workshop contents, machine learning, or if you have questions in this space and wish to collaborate with us. We can be contacted through email at tyrone.chen@monash.edu and sonika.tyagi@rmit.edu.au.
+
 .. _22nd International Conference on Bioinformatics: https://incob.apbionet.org/incob23/
 
 .. raw:: html
